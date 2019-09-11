@@ -18,4 +18,6 @@
   },
   "homepage": "https://github.com/huulamthcsyl/ElectronJS-Basic#readme",
   "devDependencies": {
-    
+    "electron": "^6.0.8"
+  }
+}
